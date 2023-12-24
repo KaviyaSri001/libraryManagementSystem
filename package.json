@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "npm: node package manager npm init",
+  "main": "server.js",
+  "scripts": {
+    
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Kaviya",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
